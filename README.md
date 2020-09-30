@@ -1,4 +1,4 @@
-# tic-tac-toe-project
+# Tic-tac-toe-project
 
 A classic tic-tac-toe game with:
   1. Player vs Player
