@@ -1,0 +1,53 @@
+h1 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.btn {
+	margin-bottom: 10px;
+}
+
+.back {
+	margin-top:20px;
+}
+
+body {
+	text-align: center;
+	font-family: 'Secular One', sans-serif;
+}
+
+table {
+	font-family: 'Indie Flower', cursive;
+	font-size: 65px;
+}
+
+p {
+	text-align: center;
+}
+
+table {
+	margin: 0 auto;
+}
+
+td {
+	height: 100px;
+	width: 100px;
+}
+
+.vertical {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.horizontal {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+#madeBy {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
